@@ -1,4 +1,16 @@
 candidate_name,startdate,enddate,pollster,samplesize,pct
+David A. Perdue,01/02/21,01/03/21,AtlasIntel,857,47
+Jon Ossoff,01/02/21,01/03/21,AtlasIntel,857,51
+Kelly Loeffler,01/02/21,01/03/21,AtlasIntel,857,47
+Raphael Warnock,01/02/21,01/03/21,AtlasIntel,857,51
+David A. Perdue,01/03/21,01/03/21,National Research Inc.,500,45
+Jon Ossoff,01/03/21,01/03/21,National Research Inc.,500,46
+Kelly Loeffler,01/03/21,01/03/21,National Research Inc.,500,45
+Raphael Warnock,01/03/21,01/03/21,National Research Inc.,500,46
+David A. Perdue,01/03/21,01/03/21,InsiderAdvantage,500,49
+Jon Ossoff,01/03/21,01/03/21,InsiderAdvantage,500,49
+Kelly Loeffler,01/03/21,01/03/21,InsiderAdvantage,500,49
+Raphael Warnock,01/03/21,01/03/21,InsiderAdvantage,500,49
 David A. Perdue,12/30/20,01/03/21,Targoz Market Research,713,50
 Jon Ossoff,12/30/20,01/03/21,Targoz Market Research,713,50
 Kelly Loeffler,12/30/20,01/03/21,Targoz Market Research,713,49
